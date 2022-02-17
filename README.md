@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chamith Wijesooriya
 - 👀 I’m interested in Programming and testing new technologies
 - 🌱 I’m currently learning in University of Peradeniya
-- 💞️ I’m looking to collaborate on SE job opportunity
 - 📫 How to reach me s16538@sci.pdn.ac.lk
 
 <!---
